@@ -1,5 +1,5 @@
 # Scottish Burden of Diseases Accelerator programme
-# Author: Caterina Constantinescu, Data Scientist @ The Data Lab, Scotland
+# Mentor: Caterina Constantinescu, Data Scientist @ The Data Lab, Scotland
 # Program participant: Maite Thrower – Senior Analyst from Public Health Intelligence – ISD (NHS National Services Scotland)
 # Example app code used for mentorship in the Accelerator programme run with members of ScotGov, between 19 April 2018 - 6 September 2018.
 # Please acknowledge this source as:

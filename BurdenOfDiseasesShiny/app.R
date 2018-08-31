@@ -1,4 +1,6 @@
-# Caterina Constantinescu, Data Scientist @ The Data Lab, Scotland
+# Scottish Burden of Diseases Accelerator programme
+# Author: Caterina Constantinescu, Data Scientist @ The Data Lab, Scotland
+# Program participant: Maite Thrower – Senior Analyst from Public Health Intelligence – ISD (NHS National Services Scotland)
 # Example app code used for mentorship in the Accelerator programme run with members of ScotGov, between 19 April 2018 - 6 September 2018.
 # Please acknowledge this source as:
 # Constantinescu, A.C. (2018, August). Exploring the Scottish Burden of Diseases Data using R Shiny [R script]. Edinburgh, Scotland: The Data Lab Innovation Centre. Retrieved [Month] [Day], [Year], from https://github.com/TheDataLabScotland/Public_ScotGovAccelerator_2018/blob/master/BurdenOfDiseasesShiny/app.R
